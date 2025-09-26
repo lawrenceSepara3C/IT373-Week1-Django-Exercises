@@ -1,0 +1,6 @@
+Python 3.12.3
+Virtual Environment: Active
+Django version: 5.2.6
+runserver working: Yes (Starting development server at http://127.0.0.1:8000/)
+Git remote set: origin  https://github.com/lawrenceSepara3C/IT373-Week1-Django-Exercises.git (fetch)
+                origin  https://github.com/lawrenceSepara3C/IT373-Week1-Django-Exercises.git (push)
